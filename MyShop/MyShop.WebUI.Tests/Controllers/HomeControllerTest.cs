@@ -23,6 +23,7 @@ namespace MyShop.WebUI.Tests.Controllers
 
             //// Assert
             //Assert.IsNotNull(result);
+            Assert.IsTrue(1 == 2);
         }
     }
 }
